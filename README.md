@@ -1,11 +1,15 @@
 # Hi, I'm Paul Tinker
 
-Product design lead focused on design systems and AI. I design the system, direct the build with AI (Claude Code), and review what comes back: tokens, accessibility, responsiveness and states. I'm not a traditional front-end developer.
+Product design lead. AI lets me take an idea all the way to a product people use. I'm not a traditional front-end developer. I design the system, direct the build and review what comes back.
 
-**Recent work**
-- **Keystone**: a multi-brand design system (five brands, light and dark, right-to-left) with React components, Storybook and an AI guide for prototyping.
-- **Source**: Vodafone's design system rebuilt in React, with docs, Storybook and an AI guide.
-- **Kavvi** and **Edgey**: two apps I designed and shipped to the App Store and Google Play, built through prompting.
+**Design systems in code**
+I keep design systems consistent at AI speed: a skill that builds only from the system, and an agent that checks every request for something new against it.
+
+**AI-directed development**
+Real products I've designed and shipped to both app stores, directed through prompts, not hand-coded.
+
+**AI prototyping**
+I build working prototypes in place of static screens, so ideas get tried before anyone commits.
 
 Most of my work is client work, so the repositories are private and the documentation sites are password protected. The password is on my CV, or ask me.
 
